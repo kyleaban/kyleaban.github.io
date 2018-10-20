@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>I'm Kyle</title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+
+    <body>
+        <div id="navbar">
+            <ul>
+                <li>
+                    <a href="mailto:cooldude859@gmail.com" class="nav-link">Contact</a>
+                </li>
+                <li>
+                    <a href="https://old.reddit.com/r/UGA/" class="nav-link">Resume</a>
+                </li>
+            </ul>
+        </div>
+
+        <br/>
+
+        <div id="about">
+            <h1 id="intro">Hi, I'm <span id="fancy">Kyle</span></h1>
+            <img src="https://media2.giphy.com/media/MF1kR4YmC2Z20/giphy.gif"/>
+            <p>I'm a CS major at UGA that likes making websites</p>
+            <p>Check out my <a href="http://github.com/mjkaufer">GitHub</a></p>
+        </div>
+
+        <div class="container">
+  <div class="ball"></div>
+  <div class="ball"></div>
+  <div class="ball"></div>
+  <div class="ball"></div>
+  <div class="ball"></div>
+  <div class="ball"></div>
+  <div class="ball"></div>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
